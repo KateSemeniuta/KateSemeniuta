@@ -1,4 +1,4 @@
-**Kate Semeniuta**
+*Kate Semeniuta*
 
 Hi! My name is Kate (she/her)
 
