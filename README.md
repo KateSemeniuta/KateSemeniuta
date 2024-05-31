@@ -1,6 +1,6 @@
 ***Kate Semeniuta***
 
-Hi! My name is Kate (she/her)
+Hi there! My name is Kate (she/her)
 
 - 🔭 I am currently working on getting my BS in Data Analytics
 - 🌱 I’m currently learning Python, R, Power BI and Tableau
