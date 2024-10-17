@@ -8,4 +8,3 @@ Hi! My name is Kate (she/her)
 - 💬 Ask me about data cleaning, MS Excel, SQL
 - 📫 How to reach me:
   My LinkedIn profile: https://www.linkedin.com/in/katesemeniuta/
-
